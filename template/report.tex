@@ -1,0 +1,25 @@
+\documentclass[11pt,a4paper]{report}
+
+\usepackage[inkscapepath=svgpath]{svg}
+\svgpath{{svg/}{tex/svg/}}
+
+\title{\VAR{title}}
+\author{\VAR{author}}
+
+\begin{document}
+
+\maketitle
+
+\chapter{Awesome!}
+\section{Introduction}
+This is the most awesome tool ever. It uses python's jinja engine to insert
+values from properties in a Capella model into an SVG file. The SVG file is
+included into a latex project. The output PDF you are currently reading.
+
+\begin{figure}[htbp]
+  \centering
+  \includesvg{ethernet.svg}
+  \caption{svg image}
+\end{figure}
+
+\end{document}

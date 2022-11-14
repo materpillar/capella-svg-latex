@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="148mm"
+   height="105mm"
+   viewBox="0 0 148 105"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="ethernet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6457109"
+     inkscape:cx="280.07596"
+     inkscape:cy="190.68599"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:#333333;stroke-width:0.396875;stroke-linejoin:round"
+       id="rect846"
+       width="23.200169"
+       height="38.702618"
+       x="29.719028"
+       y="28.88842"
+       rx="0.22312444"
+       ry="0.32392937" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:#333333;stroke-width:0.396875;stroke-linejoin:round"
+       id="rect846-3"
+       width="23.200169"
+       height="38.702618"
+       x="94.658531"
+       y="28.853485"
+       rx="0.22312444"
+       ry="0.32392937" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.944371,37.499395 h 41.842864 v 0.05705"
+       id="path1040" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 52.925152,33.2568 h 41.842864 v 0.05705"
+       id="path1040-5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 53.000393,41.852625 H 94.64799 v -0.06044 0"
+       id="path1042" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.790362,46.324916 H 94.228059"
+       id="path1044" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.917195,50.429294 H 94.354893"
+       id="path1044-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 53.155292,54.401059 H 94.592989"
+       id="path1044-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.994079,58.313526 H 94.431771"
+       id="path1044-7-5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.732417,63.104337 H 94.170109"
+       id="path1044-7-5-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="74.325752"
+       y="32.495964"
+       id="text5913"><tspan
+         sodipodi:role="line"
+         id="tspan5911"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="74.325752"
+         y="32.495964">"{{ eth_line1 }}"</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="74.546646"
+       y="37.015068"
+       id="text5913-6"><tspan
+         sodipodi:role="line"
+         id="tspan5911-2"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="74.546646"
+         y="37.015068">"{{ eth_line2 }}"</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="74.189674"
+       y="41.318569"
+       id="text5913-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan5911-2-1"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="74.189674"
+         y="41.318569">"{{ eth_line3 }}"</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="74.04245"
+       y="45.717941"
+       id="text5913-6-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan5911-2-1-7"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="74.04245"
+         y="45.717941">"{{ eth_line4 }}"</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="73.928856"
+       y="49.88343"
+       id="text5913-6-9-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan5911-2-1-7-9"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="73.928856"
+         y="49.88343">"{{ eth_line5 }}"</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="73.928749"
+       y="53.806194"
+       id="text5913-6-9-2-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan5911-2-1-7-9-6"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="73.928749"
+         y="53.806194">"{{ eth_line6 }}"</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="73.691841"
+       y="57.850224"
+       id="text5913-6-9-2-0-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan5911-2-1-7-9-6-6"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="73.691841"
+         y="57.850224">"{{ eth_line7 }}"</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="73.325737"
+       y="62.486794"
+       id="text5913-6-9-2-0-3-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan5911-2-1-7-9-6-6-6"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="73.325737"
+         y="62.486794">"{{ eth_line8 }}"</tspan></text>
+  </g>
+</svg>
